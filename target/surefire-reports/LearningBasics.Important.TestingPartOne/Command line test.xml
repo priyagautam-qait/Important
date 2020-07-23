@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DLLA15P3182" name="LearningBasics.Important.TestingPartOne" tests="1" failures="0" timestamp="15 Jan 2020 15:48:44 GMT" time="22.145" errors="0">
+  <testcase name="Step01" time="22.136" classname="LearningBasics.Important.TestingPartOne"/>
+</testsuite>
